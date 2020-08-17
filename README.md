@@ -1,7 +1,6 @@
 # Fintech-Case-Study
-​
 
-# Robinhood
+# Kevin Hao
 ​
 ## Overview and Origin
 ​
@@ -72,15 +71,15 @@ Nginx, React, Bootstrap, PostgreSQL, Ubuntu, Redis, Amazon EC2, Sass, Django, Re
 
 *Traditional brokerages measure success by the amount of accounts they retain and the total number of trades made per customer. Everytime a customer makes a trade, the brokerage makes profit. Robinhood encourgages investors to trade and their zero commision model allows traders to easily do that. In the first three months of 2020, Robinhood users traded nine times as many shares as ETrade customers and 40 times as many shares as Charles Schwab customers. In total, Robinhood makes $18,955 from the trading firms for every dollar in the average customer account. Options are the most lucrative for the company to faciliate by far. Options are complex securites that give people the right to buy or sell a stock a predetermined price. This has greater potiential for big gains or losses. Robinhood said it had 13 million accounts at the end of 2019 which was 10 million more accounts from the year before.*
 
-​
+
 * How is your company performing relative to competitors in the same domain?​
 
 *Robinhood reported they have 13 million accounts at the end of 2019 compared to Schwab (12.7 million accounts) and Etrade (5.5 Million). In the first three months of 2020, Robinhood users traded nine times as many shares as ETrade customers and 40 times as many shares as Charles Schwab customers.*
 
-​
+
 ## Recommendations
 ​
- If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+ * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
 *I would advise robinhood to shift more into the banking industry. Currently they give the customers an option to have a debit card to use for payments and investments. Customers currently make 0.30% interest per month if they are enrolled in Robinhood's Debit Card program. It would be great to give customers more options like having a savings account, a credit card or introduce something like Robinhood Pay where they can get money back for every purchase. Since they have so many users, they should try to centralize all their customers banking info along with their investment portfolio into one location so they can compete with other Banks.*
 
