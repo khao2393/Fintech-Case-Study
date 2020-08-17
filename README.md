@@ -19,7 +19,7 @@
 ​
 * How did the idea for the company (or project) come about?
 
-*The Robinhood founders decided it was important to build products that would provide everyone with access to the financial markets, not just the wealthy. Their previous experience in Finance made them realize that big Wall Street firms pay nothing to trade stocks, while most Americans were charged commssion for every trade. The named the company Robinhood after the English outloaw who stole from the rich and gave to the poor.*
+*The Robinhood founders decided it was important to build products that would provide everyone access to the financial markets, not just the wealthy. Their previous experience in finance made them realize big Wall Street firms pay nothing to trade stocks, while most Americans were charged commssion for every trade. They named the company Robinhood after the English outloaw who stole from the rich and gave to the poor.*
 ​
 * How is the company funded? How much funding have they received?
 
@@ -41,7 +41,6 @@ What solution does this company offer that their competitors do not or cannot of
 
  *When Robinhood was founded in 2013, they announced its intention to make zero commision trading the centerpriece of its business offering. Traditional brokerage firms charged $10 or more for a trade. It also added features to make investing more like a game. New members were given a free share of stock. If you are already a trader on Robinhood, you can invite someone to the app and you will be rewarded a free share of stock. The app's user interface is also simple to use. The home screen has a list of trendy stocks like Facebook, Amazon and Apple. If a customer touches one of the stocks in the app, a green button pops up with the word "Trade", skipping many of the steps that other firms require.*
 
-
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 *Robinhood was mainly created by Python. 
@@ -57,7 +56,7 @@ Nginx, React, Bootstrap, PostgreSQL, Ubuntu, Redis, Amazon EC2, Sass, Django, Re
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-*Ever since Robinhood entered the trading industry, "Mobile first" development is now the industry standard and all brokers with mobile apps reported significant increases in trades placed via mobile devices as well as overall customer engagement. Majority of customers prefer connecting via mobile device only. Also, more traditional brokerages are aiming to cut down trading fees to retain customers. For example, JP Morgan You Invest App gave customers 100 commission free stock and ETF trades in the first year after opening an account.*
+*Ever since Robinhood entered the trading industry, "Mobile first" development is now the industry standard and all brokers with mobile apps reported significant increases in trades placed via mobile devices as well as overall customer engagement. Majority of customers prefer connecting via mobile device. Also, more traditional brokerages are aiming to cut down trading fees to retain customers. For example, JP Morgan You Invest App gave customers 100 commission free stock and ETF trades in the first year after opening an account.*
 
 * What are the other major companies in this domain?
 
@@ -71,7 +70,7 @@ Nginx, React, Bootstrap, PostgreSQL, Ubuntu, Redis, Amazon EC2, Sass, Django, Re
 ​
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-*Traditional brokerages measure success by the amount of accounts they retain and the total number of trades made per customer. Everytime a customer makes a trade, the brokerage makes profit. Robinhood encourgages investors to trade and their zero commision model allows traders to do that. In the first three months of 2020, Robinhood users traded nine times as many shares as ETrade customers and 40 times as many shares as Charles Schwab customers. In total, Robinhood makes $18,955  from the trading firms for every dollar in the average customer account. Options are the most lucrative for the company to faciliate by far. Options are complex securites that give people the right to buy or sell a stock a predetermined price. This has greater potiential for big gains or losses. Robinhood said it had 13 million accounts at the end of 2019 which was 10 million more accounts from the year before.*
+*Traditional brokerages measure success by the amount of accounts they retain and the total number of trades made per customer. Everytime a customer makes a trade, the brokerage makes profit. Robinhood encourgages investors to trade and their zero commision model allows traders to easily do that. In the first three months of 2020, Robinhood users traded nine times as many shares as ETrade customers and 40 times as many shares as Charles Schwab customers. In total, Robinhood makes $18,955 from the trading firms for every dollar in the average customer account. Options are the most lucrative for the company to faciliate by far. Options are complex securites that give people the right to buy or sell a stock a predetermined price. This has greater potiential for big gains or losses. Robinhood said it had 13 million accounts at the end of 2019 which was 10 million more accounts from the year before.*
 
 ​
 * How is your company performing relative to competitors in the same domain?​
@@ -83,7 +82,7 @@ Nginx, React, Bootstrap, PostgreSQL, Ubuntu, Redis, Amazon EC2, Sass, Django, Re
 ​
  If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-*I would advise robinhood to shift more into the banking industry. Currently they give the customers an option to have a debit card to use for payments and investments. Customers currently make 0.30% interest per month if they are enrolled in Robinhood's Debit Card program. It would be great to give customers more options like having a savings account, a credit card or introduce something like Robinhood Pay where they can get money back for every purchase. Since they have so many users, they should try to centralize all their customers banking info into one location so they can compete with other Banks.*
+*I would advise robinhood to shift more into the banking industry. Currently they give the customers an option to have a debit card to use for payments and investments. Customers currently make 0.30% interest per month if they are enrolled in Robinhood's Debit Card program. It would be great to give customers more options like having a savings account, a credit card or introduce something like Robinhood Pay where they can get money back for every purchase. Since they have so many users, they should try to centralize all their customers banking info along with their investment portfolio into one location so they can compete with other Banks.*
 
 * Why do you think that offering this product or service would benefit the company?
 
@@ -91,7 +90,7 @@ Nginx, React, Bootstrap, PostgreSQL, Ubuntu, Redis, Amazon EC2, Sass, Django, Re
 
 * What technologies would this additional product or service utilize and why they are appropate for your solution?
 
-​*Robinhood already uses python for their mobile app and webiste so I would assume python will be used to create additional tab in the current app. I also believe incorporating machine learning will help Robinhood learn consumer behavior for banking and investing habits. This will help the company understand what consumers are drawn to.*
+​*Robinhood already uses python for their mobile app and webiste so I would assume python will be used to create additional feature in the current app. I also believe incorporating machine learning will help Robinhood learn consumer behavior for banking and investing habits. This will help the company understand what consumers are drawn to.*
 
 
 ## Resources
