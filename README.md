@@ -18,7 +18,7 @@
 ​
 * How did the idea for the company (or project) come about?
 
-*The Robinhood founders decided it was important to build products that would provide everyone access to the financial markets, not just the wealthy. Their previous experience in finance made them realize big Wall Street firms pay nothing to trade stocks, while most Americans were charged commssion for every trade. They named the company Robinhood after the English outloaw who stole from the rich and gave to the poor.*
+*The Robinhood founders decided it was important to build products that would provide everyone access to the financial markets, not just the wealthy. Their previous experience in finance made them realize big Wall Street firms pay nothing to trade stocks, while most Americans were charged commission for every trade. They named the company Robinhood after the English outloaw who stole from the rich and gave to the poor.*
 ​
 * How is the company funded? How much funding have they received?
 
